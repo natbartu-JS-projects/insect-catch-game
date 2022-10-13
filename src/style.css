@@ -13,6 +13,14 @@ body {
   margin: 0;
 }
 
+a {
+  color: #fff;
+}
+
+h1 {
+  line-height: 5px;
+}
+
 .btn {
   border: 0;
   background-color: #fff;
@@ -40,6 +48,28 @@ body {
 
 .screen.up {
   margin-top: -100vh;
+}
+
+.insects-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.insects-list li {
+  margin: 10px;
+}
+
+.choose-insect-btn {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  cursor: pointer;
+  font-family: inherit;
+  width: 150px;
+  height: 150px;
 }
 
 .choose-insect-btn img {
