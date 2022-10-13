@@ -7,3 +7,9 @@ This application is a game. You can select the insect type to start, and once yo
 The images used on this game is from [pngimg](https://pngimg.com)
 
 ## Application Preview
+
+**mobile version**
+![gif-mobile](assets/insect-catch-game-mobile.gif)
+
+**desktop version**
+![gif-desktop](assets/insect-catch-game-desktop.gif)
