@@ -2,15 +2,31 @@
 
 * {
   box-sizing: border-box;
-  /* border: solid #5B6DCD 1px; */
 }
 
 body {
-  background-color: #f6f7fb;
+  background-color: #728aea;
+  color: #fff;
   font-family: 'Silkscreen', cursive;
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+.btn {
+  border: 0;
+  background-color: #fff;
+  color: #728aea;
+  padding: 15px 20px;
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.btn:hover {
+  opacity: 0.9;
 }
 
 .screen {
@@ -26,4 +42,5 @@ body {
   width: 100px;
   height: 100px;
   object-fit: contain;
+  cursor: pointer;
 }
