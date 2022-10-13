@@ -18,7 +18,7 @@ a {
 }
 
 h1 {
-  line-height: 5px;
+  font-size: 40px;
 }
 
 .btn {
@@ -27,6 +27,11 @@ h1 {
   color: #728aea;
   padding: 15px 20px;
   cursor: pointer;
+  margin-top: 30px;
+  width: 250px;
+  font-family: inherit;
+  font-size: 20px;
+  border-radius: 30px;
 }
 
 .btn:focus {
@@ -47,7 +52,7 @@ h1 {
 }
 
 .screen.up {
-  margin-top: -200vh;
+  margin-top: -100vh;
 }
 
 .insects-list {
