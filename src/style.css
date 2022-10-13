@@ -91,7 +91,6 @@ h1 {
   width: 100px;
   height: 100px;
   object-fit: contain;
-  cursor: pointer;
 }
 
 .game-container {
