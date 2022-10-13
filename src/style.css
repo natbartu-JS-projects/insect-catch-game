@@ -72,6 +72,11 @@ h1 {
   height: 150px;
 }
 
+.choose-insect-btn:hover {
+  background-color: #fff;
+  color: #728aea;
+}
+
 .choose-insect-btn img {
   width: 100px;
   height: 100px;
