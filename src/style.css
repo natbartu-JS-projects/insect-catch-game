@@ -149,3 +149,9 @@ h1 {
   width: 100px;
   height: 100px;
 }
+
+@media all and (max-width: 768px) {
+  h1 {
+    font-size: 30px;
+  }
+}
